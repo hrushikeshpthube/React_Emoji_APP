@@ -8,3 +8,6 @@ input {
   width: 80%;
   margin: 1rem;
 }
+body {
+  background-color: rgb(193, 205, 216);
+}
